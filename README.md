@@ -1,6 +1,3 @@
-# neko-launcher-updates
-Лаунчер для проектов майнкрафт
+# updates-neko-launcher-yami
 
-React + Vite + Tauri ❤️
-
-![image](https://github.com/FluffyCuteOwO/neko-launcher-updates/assets/17436886/28edd4d5-ec74-45d5-a839-ac371c60d00d)
+![image](https://github.com/michitta/updates-neko-launcher-yami/assets/17436886/d5564eff-3ba2-4961-9ec9-98d52d182728)
