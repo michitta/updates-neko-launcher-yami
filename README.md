@@ -1,3 +1,3 @@
-# updates-neko-launcher-yami
+# Обновления neko-launcher для проекта Yami Prjoect
 
-![image](https://github.com/michitta/updates-neko-launcher-yami/assets/17436886/d5564eff-3ba2-4961-9ec9-98d52d182728)
+![image](https://github.com/michitta/updates-neko-launcher-yami/assets/17436886/52ac8813-c0c6-48de-b8f0-2cc923ca1734)
